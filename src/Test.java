@@ -11,7 +11,7 @@ public class Test {
 	
 	public String a(){
 		
-		return "AB";
+		return "ABC";
 	}
 	
 	public int a(int i){
